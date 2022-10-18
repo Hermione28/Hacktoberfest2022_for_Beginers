@@ -41,6 +41,7 @@
 | Daksh Kesarwani | <a href="https://github.com/InnocentDaksh63">Daksh kesaarwani</a> | <a href="mailto:dakshkesarwanijasra@gmail.com">E-Mail</a> |
 | Aritroo Chowdhury | <a href="https://github.com/aritroo">Aritroo Chowdhury</a> | <a href="mailto:aritroo123chowdhury52@gmail.com">E-Mail</a> |
 | Daksh Kesarwani | <a href="https://github.com/InnocentDaksh63">Daksh kesaarwani</a> | <a href="mailto:dakshkesarwanijasra@gmail.com">E-Mail</a> |
+| Prajakta Jagadale | <a href="https://github.com/Hermione28">Hermione28</a> | <a href="mailto:prajaktajagdale28@gmail.com">E-Mail</a> |
 | Kartikey Singh | <a href="https://github.com/kartik-ey1">Kartikey Singh</a> | <a href="mailto:kartikeysingh896@gmail.com">E-Mail</a> |
 | Daksh Kesarwani | <a href="https://github.com/InnocentDaksh63">Daksh kesaarwani</a> | <a href="mailto:dakshkesarwanijasra@gmail.com">E-Mail</a> |
 | Pradeep Khatri | <a href="https://github.com/PradeepKhatri">Pradeep Khatri</a> | <a href="mailto:pradeepkhatri121@gmail.com">E-Mail</a> |
@@ -66,6 +67,7 @@
 | Samriddh Prasad | <a href="https://github.com/Samriddh2703">Samriddh Prasad</a> | <a href="mailto:samriddh2703@gmail.com">E-Mail</a> |
 | Edgar Gonzalez | <a href="https://github.com/Edgarzerocool">Edgar Gonzalez</a> | <a href="mailto:edgar_gonzalezja@hotmail.com">E-Mail</a> |
 | Rishikesh Jagadale | <a href="https://github.com/rissh">rissh</a> | <a href="mailto:rishikeshjagadale23@gmail.com">E-Mail</a> |
+
 
 
 
